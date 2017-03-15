@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/MaciejJaroszewski/simple_upload_file_express.git",
   "author": "maciej.k.jaroszewski <maciej.k.jaroszewski@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js" 
+  }
 }
