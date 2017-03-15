@@ -1,0 +1,9 @@
+{
+  "name": "upload_file_express",
+  "version": "0.0.1",
+  "description": "Simple upload system for express servers",
+  "main": "index.js",
+  "repository": "https://github.com/MaciejJaroszewski/simple_upload_file_express.git",
+  "author": "maciej.k.jaroszewski <maciej.k.jaroszewski@gmail.com>",
+  "license": "MIT"
+}
